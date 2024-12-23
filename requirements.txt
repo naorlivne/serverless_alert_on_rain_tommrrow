@@ -5,7 +5,7 @@ charset-normalizer==3.4.0
 configobj==5.0.9
 coverage==7.6.8
 dpath==2.2.0
-geojson==2.5.0
+geojson==3.2.0
 idna==3.10
 parse-it==2024.11.20.9.55
 pyhcl==0.4.5
