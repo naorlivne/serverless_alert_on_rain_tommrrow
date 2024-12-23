@@ -18,5 +18,5 @@ requests==2.32.3
 requests-mock==1.12.1
 six==1.16.0
 toml==0.10.2
-urllib3==2.2.3
+urllib3==2.3.0
 xmltodict==0.14.2
