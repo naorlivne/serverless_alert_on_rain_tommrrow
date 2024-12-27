@@ -3,7 +3,7 @@ certifi==2024.8.30
 chardet==5.2.0
 charset-normalizer==3.4.0
 configobj==5.0.9
-coverage==7.6.8
+coverage==7.6.10
 dpath==2.2.0
 geojson==2.5.0
 idna==3.10
