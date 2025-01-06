@@ -11,7 +11,7 @@ parse-it==2024.11.20.9.55
 pyhcl==0.4.5
 pyowm==3.3.0
 PySocks==1.7.1
-pyTelegramBotAPI==4.24.0
+pyTelegramBotAPI==4.26.0
 python-dotenv==1.0.1
 PyYAML==6.0.2
 requests==2.32.3
